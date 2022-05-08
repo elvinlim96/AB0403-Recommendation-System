@@ -2,6 +2,10 @@
 
 This project is created as part of a course project for *AB0403 Decision Making with Programming & Analytics*.
 
+It uses Python programming language and the following modules: *Pandas, Numpy* and *Openpyxl*.
+
+The program reads the restaurant information from the excel file and load it as a dataframe.
+
 ## Project Summary
 
 <div align="center">
